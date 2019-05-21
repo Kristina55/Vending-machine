@@ -1,0 +1,19 @@
+.linksStyle {
+  top: 330px;
+  position: absolute;
+  display: inline-block;
+  margin-left: 17px;
+}
+
+p {
+  padding-bottom: 13px;
+  margin-top: 0px;
+  border-bottom: 1px solid #dddddd;
+  padding-top: 13px;
+}
+p > a {
+  text-decoration: none;
+  color: red;
+  padding-bottom: 7px;
+}
+

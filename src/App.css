@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.navBarStyle {
+  padding-top: 18px;
+  height: 64px;
+  background-color: black;
+}
+.navBarStyle > a {
+color: white;
+text-decoration: none;
+font-size: 26px;
+padding-right: 30px;
+} 

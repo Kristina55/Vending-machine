@@ -1,0 +1,10 @@
+.buttonStyle {
+  border: 1px solid black;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.buttonStyle > a {
+  color: black;
+  text-decoration: none;
+}
